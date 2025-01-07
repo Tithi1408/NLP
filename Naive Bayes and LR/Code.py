@@ -224,7 +224,7 @@ def main():
         classifier_type = "Logistic Regression"
 
     # Print configuration
-    print(f"Patel, Tithi, A20580634 solution:")
+    print(f"Solution:")
     print(f"\nTraining set size: {train_size} %")
     print(f"Classifier type: {classifier_type}")
     
