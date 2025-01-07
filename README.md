@@ -1,6 +1,6 @@
 # Machine Learning and NLP 
 
-This repository contains implementations of foundational Machine Learning and Natural Language Processing (NLP) concepts and models. The focus is on building classifiers, calculating probabilities, and creating language models for text-based tasks.
+This repository contains implementations of somw of the Machine Learning and Natural Language Processing (NLP) concepts and models. The focus is on building classifiers, calculating probabilities, and creating language models for text-based tasks.
 
 ---
 
